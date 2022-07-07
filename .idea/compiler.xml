@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-A_suitable_output.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-Bus_tour.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-The_sequence.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Chocolate.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-The_army_of_units.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Find_the_correct_statement.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Print_the_age.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Select_the_statement.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-What's_wrong.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-Calculate_the_digit.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-First_digit.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Find_the_sum.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Select_one_loop.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Primitive_and_reference_types-The_assignment.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Primitive_and_reference_types-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Scanning_the_input-Reading_a_number.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Scanning_the_input-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Check_prefix_ignoring_the_case.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Comparing_strings.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Extracting_a_substring.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Removing_breaks.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Determine_the_result.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-The_sum_of_integers_from_a_to_b.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Collatz_conjecture.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Magic_code.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
